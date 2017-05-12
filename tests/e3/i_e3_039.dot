@@ -1,0 +1,31 @@
+digraph G {
+node_0x13589e0 [label="k"]
+node_0x1358b20 [label="10"]
+node_0x1358ba0 [label="10"]
+node_0x1358be0 [label="+"]
+node_0x1358be0 -> node_0x1358b20
+node_0x1358be0 -> node_0x1358ba0
+node_0x1358ca0 [label="20"]
+node_0x1358d20 [label="20"]
+node_0x1358d60 [label="+"]
+node_0x1358d60 -> node_0x1358ca0
+node_0x1358d60 -> node_0x1358d20
+node_0x1358e20 [label="30"]
+node_0x1358ea0 [label="30"]
+node_0x1358ee0 [label="+"]
+node_0x1358ee0 -> node_0x1358e20
+node_0x1358ee0 -> node_0x1358ea0
+node_0x1358d60 -> node_0x1358ee0
+node_0x1358be0 -> node_0x1358d60
+node_0x1358f60 [label="k"]
+node_0x1358f20 [label="call"]
+node_0x1358f20 -> node_0x1358f60
+node_0x1358f20 -> node_0x1358be0
+node_0x1358fe0 [label="f"]
+node_0x1358fe0 -> node_0x1358f20
+node_0x13589e0 -> node_0x1358fe0
+node_0x1351270 [label="programa"]
+node_0x1351270 -> node_0x13589e0
+root -> node_0x1351270
+root [label="root"]
+}

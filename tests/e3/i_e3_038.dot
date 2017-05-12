@@ -1,0 +1,19 @@
+digraph G {  
+node_0xf429e0 [label="k"]
+node_0xf42b20 [label="10"]
+node_0xf42be0 [label="20"]
+node_0xf42ca0 [label="30"]
+node_0xf42be0 -> node_0xf42ca0
+node_0xf42b20 -> node_0xf42be0
+node_0xf42d20 [label="k"]
+node_0xf42ce0 [label="call"]
+node_0xf42ce0 -> node_0xf42d20
+node_0xf42ce0 -> node_0xf42b20
+node_0xf42da0 [label="f"]
+node_0xf42da0 -> node_0xf42ce0
+node_0xf429e0 -> node_0xf42da0
+node_0xf3b270 [label="programa"]
+node_0xf3b270 -> node_0xf429e0
+root -> node_0xf3b270
+root [label="root"]
+}

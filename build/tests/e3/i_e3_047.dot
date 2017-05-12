@@ -1,0 +1,75 @@
+digraph G {
+node_0xe7b920 [label="n"]
+node_0xe7b9a0 [label="0"]
+node_0xe7b9e0 [label="=="]
+node_0xe7b9e0 -> node_0xe7b920
+node_0xe7b9e0 -> node_0xe7b9a0
+node_0xe7bac0 [label="1"]
+node_0xe7bb00 [label="return"]
+node_0xe7bb00 -> node_0xe7bac0
+node_0xe7bb60 [label="ifelse"]
+node_0xe7bb60 -> node_0xe7b9e0
+node_0xe7bb60 -> node_0xe7bb00
+node_0xe7bc20 [label="n"]
+node_0xe7bc60 [label="1"]
+node_0xe7bca0 [label="=="]
+node_0xe7bca0 -> node_0xe7bc20
+node_0xe7bca0 -> node_0xe7bc60
+node_0xe7bd20 [label="1"]
+node_0xe7bd60 [label="return"]
+node_0xe7bd60 -> node_0xe7bd20
+node_0xe7bda0 [label="ifelse"]
+node_0xe7bda0 -> node_0xe7bca0
+node_0xe7bda0 -> node_0xe7bd60
+node_0xe7be60 [label="n"]
+node_0xe7bea0 [label="1"]
+node_0xe7bee0 [label="-"]
+node_0xe7bee0 -> node_0xe7be60
+node_0xe7bee0 -> node_0xe7bea0
+node_0xe7bf60 [label="fibonacci"]
+node_0xe7bf20 [label="call"]
+node_0xe7bf20 -> node_0xe7bf60
+node_0xe7bf20 -> node_0xe7bee0
+node_0xe7c040 [label="n"]
+node_0xe7c0c0 [label="2"]
+node_0xe7c100 [label="-"]
+node_0xe7c100 -> node_0xe7c040
+node_0xe7c100 -> node_0xe7c0c0
+node_0xe7c1a0 [label="fibonacci"]
+node_0xe7c160 [label="call"]
+node_0xe7c160 -> node_0xe7c1a0
+node_0xe7c160 -> node_0xe7c100
+node_0xe7c220 [label="+"]
+node_0xe7c220 -> node_0xe7bf20
+node_0xe7c220 -> node_0xe7c160
+node_0xe7c280 [label="return"]
+node_0xe7c280 -> node_0xe7c220
+node_0xe7bda0 -> node_0xe7c280
+node_0xe7bb60 -> node_0xe7bda0
+node_0xe7c2e0 [label=""]
+node_0xe7c2e0 -> node_0xe7bb60
+node_0xe7c560 [label="Insira um numero: "]
+node_0xe7c5a0 [label="output"]
+node_0xe7c5a0 -> node_0xe7c560
+node_0xe7c660 [label="numero"]
+node_0xe7c6a0 [label="input"]
+node_0xe7c6a0 -> node_0xe7c660
+node_0xe7c810 [label="O valor fibonacci eh: "]
+node_0xe7c8d0 [label="numero"]
+node_0xe7c950 [label="fibonacci"]
+node_0xe7c910 [label="call"]
+node_0xe7c910 -> node_0xe7c950
+node_0xe7c910 -> node_0xe7c8d0
+node_0xe7c810 -> node_0xe7c910
+node_0xe7c990 [label="output"]
+node_0xe7c990 -> node_0xe7c810
+node_0xe7c6a0 -> node_0xe7c990
+node_0xe7c5a0 -> node_0xe7c6a0
+node_0xe7c9f0 [label="main"]
+node_0xe7c9f0 -> node_0xe7c5a0
+node_0xe7c2e0 -> node_0xe7c9f0
+node_0xe74270 [label="programa"]
+node_0xe74270 -> node_0xe7c2e0
+root -> node_0xe74270
+root [label="root"]
+}

@@ -1,0 +1,55 @@
+///////////////////////////////////////////////////////////////
+//
+//        Nome: Primos
+//   Descriçao: Funçao que exibe os n numeros primos contidos entre 1 e n.
+//
+//     Criaçao: 04/09/2016  Arthur Ribeiro
+//  Modificada: 
+//
+/////////////////////////////////////////////////////////////// 
+int Primos (int numero) 
+{ 
+  int nPrimos <= 0;
+  int contador <= 0;
+  int i <= 1;
+  int j <= 1; 
+
+  while (i <= numero) do
+  {
+    contador = 0;
+    while (j <= i) do
+    { 
+      if ((i%j) == 0) then
+      	contador = contador + 1;;
+      j = j + 1;
+    };;
+    if(contador <= 2) then
+      {output i;
+       nPrimos = nPrimos + 1;
+      };;
+    i = i + 1
+  };;
+  return nPrimos
+}
+
+///////////////////////////////////////////////////////////////
+//
+//        Nome: Main
+//   Descriçao: Funçao principal.
+//
+//     Criaçao: 04/09/2016  Arthur Ribeiro
+//  Modificada: 
+//
+/////////////////////////////////////////////////////////////// 
+int main()
+{
+    int n;
+    int nPrimos;
+
+    output "Escolha a até aqual numero desja lista os numeros primos: ";
+    input n;
+    nPrimos = Primos (n); 
+    output "Acima estao listados os " ,nPrimos , "entre 1 e ", n
+}
+  
+

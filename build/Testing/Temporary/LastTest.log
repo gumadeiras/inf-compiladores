@@ -1,0 +1,1713 @@
+Start testing: Nov 04 18:53 BRST
+----------------------------------------------------------
+328/407 Testing: e5_avaliacao_00_0
+328/407 Test: e5_avaliacao_00_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_00_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_00_0" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_00_0.tesh'
+[avaliacao_00_0.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e00_0.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Test suite `avaliacao_00_0.tesh' OK
+<end of output>
+Test time =   0.20 sec
+----------------------------------------------------------
+Test Passed.
+"e5_avaliacao_00_0" end time: Nov 04 18:53 BRST
+"e5_avaliacao_00_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+329/407 Testing: e5_avaliacao_00_1
+329/407 Test: e5_avaliacao_00_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_00_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_00_1" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_00_1.tesh'
+[avaliacao_00_1.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e00_1.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Test suite `avaliacao_00_1.tesh' OK
+<end of output>
+Test time =   0.19 sec
+----------------------------------------------------------
+Test Passed.
+"e5_avaliacao_00_1" end time: Nov 04 18:53 BRST
+"e5_avaliacao_00_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+330/407 Testing: e5_avaliacao_01_0
+330/407 Test: e5_avaliacao_01_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_01_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_01_0" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_01_0.tesh'
+[avaliacao_01_0.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e01_0.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Test suite `avaliacao_01_0.tesh' OK
+<end of output>
+Test time =   0.20 sec
+----------------------------------------------------------
+Test Passed.
+"e5_avaliacao_01_0" end time: Nov 04 18:53 BRST
+"e5_avaliacao_01_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+331/407 Testing: e5_avaliacao_01_1
+331/407 Test: e5_avaliacao_01_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_01_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_01_1" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_01_1.tesh'
+[avaliacao_01_1.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e01_1.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Test suite `avaliacao_01_1.tesh' OK
+<end of output>
+Test time =   0.20 sec
+----------------------------------------------------------
+Test Passed.
+"e5_avaliacao_01_1" end time: Nov 04 18:53 BRST
+"e5_avaliacao_01_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+332/407 Testing: e5_avaliacao_02_0
+332/407 Test: e5_avaliacao_02_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_02_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_02_0" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_02_0.tesh'
+[avaliacao_02_0.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e02_0.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Test suite `avaliacao_02_0.tesh' OK
+<end of output>
+Test time =   0.20 sec
+----------------------------------------------------------
+Test Passed.
+"e5_avaliacao_02_0" end time: Nov 04 18:53 BRST
+"e5_avaliacao_02_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+333/407 Testing: e5_avaliacao_02_1
+333/407 Test: e5_avaliacao_02_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_02_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_02_1" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_02_1.tesh'
+[avaliacao_02_1.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e02_1.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Test suite `avaliacao_02_1.tesh' OK
+<end of output>
+Test time =   0.19 sec
+----------------------------------------------------------
+Test Passed.
+"e5_avaliacao_02_1" end time: Nov 04 18:53 BRST
+"e5_avaliacao_02_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+334/407 Testing: e5_avaliacao_03_0
+334/407 Test: e5_avaliacao_03_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_03_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_03_0" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_03_0.tesh'
+[avaliacao_03_0.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e03_0.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Test suite `avaliacao_03_0.tesh' OK
+<end of output>
+Test time =   0.19 sec
+----------------------------------------------------------
+Test Passed.
+"e5_avaliacao_03_0" end time: Nov 04 18:53 BRST
+"e5_avaliacao_03_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+335/407 Testing: e5_avaliacao_03_1
+335/407 Test: e5_avaliacao_03_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_03_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_03_1" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_03_1.tesh'
+[avaliacao_03_1.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e03_1.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Test suite `avaliacao_03_1.tesh' OK
+<end of output>
+Test time =   0.21 sec
+----------------------------------------------------------
+Test Passed.
+"e5_avaliacao_03_1" end time: Nov 04 18:53 BRST
+"e5_avaliacao_03_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+336/407 Testing: e5_avaliacao_04_0
+336/407 Test: e5_avaliacao_04_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_04_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_04_0" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_04_0.tesh'
+[avaliacao_04_0.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e04_0.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Output of <avaliacao_04_0.tesh:3> mismatch:
+- 00000004 1
+- 00000008 2
+- 00000040 3
+- 00000044 4
+- 00000052 5
+- 00000060 6
+Test suite `avaliacao_04_0.tesh': NOK (<avaliacao_04_0.tesh:3> output mismatch)
+<end of output>
+Test time =   0.20 sec
+----------------------------------------------------------
+Test Failed.
+"e5_avaliacao_04_0" end time: Nov 04 18:53 BRST
+"e5_avaliacao_04_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+337/407 Testing: e5_avaliacao_04_1
+337/407 Test: e5_avaliacao_04_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_04_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_04_1" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_04_1.tesh'
+[avaliacao_04_1.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e04_1.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Output of <avaliacao_04_1.tesh:3> mismatch:
+- 00000140 12
+- 00000448 23
+- 00003064 34
+- 00004212 45
+- 00004308 56
+- 00004380 67
+Test suite `avaliacao_04_1.tesh': NOK (<avaliacao_04_1.tesh:3> output mismatch)
+<end of output>
+Test time =   0.19 sec
+----------------------------------------------------------
+Test Failed.
+"e5_avaliacao_04_1" end time: Nov 04 18:53 BRST
+"e5_avaliacao_04_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+338/407 Testing: e5_avaliacao_05_0
+338/407 Test: e5_avaliacao_05_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_05_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_05_0" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_05_0.tesh'
+[avaliacao_05_0.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e05_0.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Output of <avaliacao_05_0.tesh:3> mismatch:
+  00000000 2
+- 00000004 1
+- 00000008 2
+- 00000012 3
+- 00000016 4
+- 00000020 5
+- 00000084 6
+Test suite `avaliacao_05_0.tesh': NOK (<avaliacao_05_0.tesh:3> output mismatch)
+<end of output>
+Test time =   0.19 sec
+----------------------------------------------------------
+Test Failed.
+"e5_avaliacao_05_0" end time: Nov 04 18:53 BRST
+"e5_avaliacao_05_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+339/407 Testing: e5_avaliacao_05_1
+339/407 Test: e5_avaliacao_05_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_05_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_05_1" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_05_1.tesh'
+[avaliacao_05_1.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e05_1.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Output of <avaliacao_05_1.tesh:3> mismatch:
+  00000000 25
+- 00000004 1
+- 00000044 2
+- 00000104 3
+- 00000188 4
+- 00000804 6
+- 00002504 5
+Test suite `avaliacao_05_1.tesh': NOK (<avaliacao_05_1.tesh:3> output mismatch)
+<end of output>
+Test time =   0.20 sec
+----------------------------------------------------------
+Test Failed.
+"e5_avaliacao_05_1" end time: Nov 04 18:53 BRST
+"e5_avaliacao_05_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+340/407 Testing: e5_avaliacao_06_0
+340/407 Test: e5_avaliacao_06_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_06_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_06_0" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_06_0.tesh'
+[avaliacao_06_0.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e06_0.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Test suite `avaliacao_06_0.tesh' OK
+<end of output>
+Test time =   0.18 sec
+----------------------------------------------------------
+Test Passed.
+"e5_avaliacao_06_0" end time: Nov 04 18:53 BRST
+"e5_avaliacao_06_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+341/407 Testing: e5_avaliacao_06_1
+341/407 Test: e5_avaliacao_06_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_06_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_06_1" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_06_1.tesh'
+[avaliacao_06_1.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e06_1.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Test suite `avaliacao_06_1.tesh' OK
+<end of output>
+Test time =   0.21 sec
+----------------------------------------------------------
+Test Passed.
+"e5_avaliacao_06_1" end time: Nov 04 18:53 BRST
+"e5_avaliacao_06_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+342/407 Testing: e5_avaliacao_07_0
+342/407 Test: e5_avaliacao_07_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_07_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_07_0" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_07_0.tesh'
+[avaliacao_07_0.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e07_0.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Test suite `avaliacao_07_0.tesh' OK
+<end of output>
+Test time =   0.20 sec
+----------------------------------------------------------
+Test Passed.
+"e5_avaliacao_07_0" end time: Nov 04 18:53 BRST
+"e5_avaliacao_07_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+343/407 Testing: e5_avaliacao_07_1
+343/407 Test: e5_avaliacao_07_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_07_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_07_1" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_07_1.tesh'
+[avaliacao_07_1.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e07_1.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Test suite `avaliacao_07_1.tesh' OK
+<end of output>
+Test time =   0.19 sec
+----------------------------------------------------------
+Test Passed.
+"e5_avaliacao_07_1" end time: Nov 04 18:53 BRST
+"e5_avaliacao_07_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+344/407 Testing: e5_avaliacao_08_0
+344/407 Test: e5_avaliacao_08_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_08_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_08_0" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_08_0.tesh'
+[avaliacao_08_0.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e08_0.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Test suite `avaliacao_08_0.tesh' OK
+<end of output>
+Test time =   0.21 sec
+----------------------------------------------------------
+Test Passed.
+"e5_avaliacao_08_0" end time: Nov 04 18:53 BRST
+"e5_avaliacao_08_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+345/407 Testing: e5_avaliacao_08_1
+345/407 Test: e5_avaliacao_08_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_08_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_08_1" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_08_1.tesh'
+[avaliacao_08_1.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e08_1.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Test suite `avaliacao_08_1.tesh' OK
+<end of output>
+Test time =   0.20 sec
+----------------------------------------------------------
+Test Passed.
+"e5_avaliacao_08_1" end time: Nov 04 18:53 BRST
+"e5_avaliacao_08_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+346/407 Testing: e5_avaliacao_09_0
+346/407 Test: e5_avaliacao_09_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_09_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_09_0" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_09_0.tesh'
+[avaliacao_09_0.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e09_0.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Test suite `avaliacao_09_0.tesh' OK
+<end of output>
+Test time =   0.21 sec
+----------------------------------------------------------
+Test Passed.
+"e5_avaliacao_09_0" end time: Nov 04 18:53 BRST
+"e5_avaliacao_09_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+347/407 Testing: e5_avaliacao_09_1
+347/407 Test: e5_avaliacao_09_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_09_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_09_1" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_09_1.tesh'
+[avaliacao_09_1.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e09_1.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Test suite `avaliacao_09_1.tesh' OK
+<end of output>
+Test time =   0.21 sec
+----------------------------------------------------------
+Test Passed.
+"e5_avaliacao_09_1" end time: Nov 04 18:53 BRST
+"e5_avaliacao_09_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+348/407 Testing: e5_avaliacao_10_0
+348/407 Test: e5_avaliacao_10_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_10_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_10_0" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_10_0.tesh'
+[avaliacao_10_0.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e10_0.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Test suite `avaliacao_10_0.tesh' OK
+<end of output>
+Test time =   0.20 sec
+----------------------------------------------------------
+Test Passed.
+"e5_avaliacao_10_0" end time: Nov 04 18:53 BRST
+"e5_avaliacao_10_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+349/407 Testing: e5_avaliacao_10_1
+349/407 Test: e5_avaliacao_10_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_10_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_10_1" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_10_1.tesh'
+[avaliacao_10_1.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e10_1.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Test suite `avaliacao_10_1.tesh' OK
+<end of output>
+Test time =   0.19 sec
+----------------------------------------------------------
+Test Passed.
+"e5_avaliacao_10_1" end time: Nov 04 18:53 BRST
+"e5_avaliacao_10_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+350/407 Testing: e5_avaliacao_11_0
+350/407 Test: e5_avaliacao_11_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_11_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_11_0" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_11_0.tesh'
+[avaliacao_11_0.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e11_0.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Test suite `avaliacao_11_0.tesh' OK
+<end of output>
+Test time =   0.22 sec
+----------------------------------------------------------
+Test Passed.
+"e5_avaliacao_11_0" end time: Nov 04 18:53 BRST
+"e5_avaliacao_11_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+351/407 Testing: e5_avaliacao_11_1
+351/407 Test: e5_avaliacao_11_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_11_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_11_1" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_11_1.tesh'
+[avaliacao_11_1.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e11_1.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Test suite `avaliacao_11_1.tesh' OK
+<end of output>
+Test time =   0.21 sec
+----------------------------------------------------------
+Test Passed.
+"e5_avaliacao_11_1" end time: Nov 04 18:53 BRST
+"e5_avaliacao_11_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+352/407 Testing: e5_avaliacao_12_0
+352/407 Test: e5_avaliacao_12_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_12_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_12_0" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_12_0.tesh'
+[avaliacao_12_0.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e12_0.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Test suite `avaliacao_12_0.tesh': NOK (<avaliacao_12_0.tesh:3> returned code 1)
+Output of <avaliacao_12_0.tesh:3> so far:
+|| Traceback (most recent call last):
+||   File "./tests/scripts/ilocsim", line 380, in <module>
+||     if __name__ == '__main__': main()
+||   File "./tests/scripts/ilocsim", line 367, in main
+||     sim = Sim(program, args.bss, args.stack, args.trace)
+||   File "./tests/scripts/ilocsim", line 112, in __init__
+||     self.code = self.program_load(program)
+||   File "./tests/scripts/ilocsim", line 196, in program_load
+||     l.append( Operation(s).op )
+||   File "./tests/scripts/ilocsim", line 16, in __init__
+||     self.op = [int(x) if re.match('^[0-9]+$',x) else x for x in m.groups()]
+|| AttributeError: 'NoneType' object has no attribute 'groups'
+Output of <avaliacao_12_0.tesh:3> mismatch:
+- 00000000 10
+- 00000004 88572
++ Traceback (most recent call last):
++   File "./tests/scripts/ilocsim", line 380, in <module>
++     if __name__ == '__main__': main()
++   File "./tests/scripts/ilocsim", line 367, in main
++     sim = Sim(program, args.bss, args.stack, args.trace)
++   File "./tests/scripts/ilocsim", line 112, in __init__
++     self.code = self.program_load(program)
++   File "./tests/scripts/ilocsim", line 196, in program_load
++     l.append( Operation(s).op )
++   File "./tests/scripts/ilocsim", line 16, in __init__
++     self.op = [int(x) if re.match('^[0-9]+$',x) else x for x in m.groups()]
++ AttributeError: 'NoneType' object has no attribute 'groups'
+Test suite `avaliacao_12_0.tesh': NOK (<avaliacao_12_0.tesh:3> output mismatch)
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Failed.
+"e5_avaliacao_12_0" end time: Nov 04 18:53 BRST
+"e5_avaliacao_12_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+353/407 Testing: e5_avaliacao_12_1
+353/407 Test: e5_avaliacao_12_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_12_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_12_1" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_12_1.tesh'
+[avaliacao_12_1.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e12_1.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Test suite `avaliacao_12_1.tesh': NOK (<avaliacao_12_1.tesh:3> returned code 1)
+Output of <avaliacao_12_1.tesh:3> so far:
+|| Traceback (most recent call last):
+||   File "./tests/scripts/ilocsim", line 380, in <module>
+||     if __name__ == '__main__': main()
+||   File "./tests/scripts/ilocsim", line 367, in main
+||     sim = Sim(program, args.bss, args.stack, args.trace)
+||   File "./tests/scripts/ilocsim", line 112, in __init__
+||     self.code = self.program_load(program)
+||   File "./tests/scripts/ilocsim", line 196, in program_load
+||     l.append( Operation(s).op )
+||   File "./tests/scripts/ilocsim", line 16, in __init__
+||     self.op = [int(x) if re.match('^[0-9]+$',x) else x for x in m.groups()]
+|| AttributeError: 'NoneType' object has no attribute 'groups'
+Output of <avaliacao_12_1.tesh:3> mismatch:
+- 00000000 230
+- 00000004 3697552057437101255994197180060915719612089768596401452
++ Traceback (most recent call last):
++   File "./tests/scripts/ilocsim", line 380, in <module>
++     if __name__ == '__main__': main()
++   File "./tests/scripts/ilocsim", line 367, in main
++     sim = Sim(program, args.bss, args.stack, args.trace)
++   File "./tests/scripts/ilocsim", line 112, in __init__
++     self.code = self.program_load(program)
++   File "./tests/scripts/ilocsim", line 196, in program_load
++     l.append( Operation(s).op )
++   File "./tests/scripts/ilocsim", line 16, in __init__
++     self.op = [int(x) if re.match('^[0-9]+$',x) else x for x in m.groups()]
++ AttributeError: 'NoneType' object has no attribute 'groups'
+Test suite `avaliacao_12_1.tesh': NOK (<avaliacao_12_1.tesh:3> output mismatch)
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Failed.
+"e5_avaliacao_12_1" end time: Nov 04 18:53 BRST
+"e5_avaliacao_12_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+354/407 Testing: e5_avaliacao_13_0
+354/407 Test: e5_avaliacao_13_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_13_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_13_0" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_13_0.tesh'
+[avaliacao_13_0.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e13_0.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+[avaliacao_13_0.tesh:7] ./tests/e5/execute.sh "./main < ./tests/e5/input/e13_0.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -i 1 | grep cbr"
+Test suite `avaliacao_13_0.tesh' OK
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"e5_avaliacao_13_0" end time: Nov 04 18:53 BRST
+"e5_avaliacao_13_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+355/407 Testing: e5_avaliacao_13_1
+355/407 Test: e5_avaliacao_13_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_13_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_13_1" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_13_1.tesh'
+[avaliacao_13_1.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e13_1.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+[avaliacao_13_1.tesh:7] ./tests/e5/execute.sh "./main < ./tests/e5/input/e13_1.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -i 1 | grep cbr"
+Test suite `avaliacao_13_1.tesh' OK
+<end of output>
+Test time =   0.26 sec
+----------------------------------------------------------
+Test Passed.
+"e5_avaliacao_13_1" end time: Nov 04 18:53 BRST
+"e5_avaliacao_13_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+356/407 Testing: e5_avaliacao_14_0
+356/407 Test: e5_avaliacao_14_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_14_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_14_0" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_14_0.tesh'
+[avaliacao_14_0.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e14_0.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Output of <avaliacao_14_0.tesh:3> mismatch:
+- 00000000 1
+- 00000396 2
+  00000400 3
+Test suite `avaliacao_14_0.tesh': NOK (<avaliacao_14_0.tesh:3> output mismatch)
+<end of output>
+Test time =   0.19 sec
+----------------------------------------------------------
+Test Failed.
+"e5_avaliacao_14_0" end time: Nov 04 18:53 BRST
+"e5_avaliacao_14_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+357/407 Testing: e5_avaliacao_14_1
+357/407 Test: e5_avaliacao_14_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_14_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_14_1" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_14_1.tesh'
+[avaliacao_14_1.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e14_1.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Output of <avaliacao_14_1.tesh:3> mismatch:
+  548228768 38
+- 4729086504 23
+- 4843196060 15
+Test suite `avaliacao_14_1.tesh': NOK (<avaliacao_14_1.tesh:3> output mismatch)
+<end of output>
+Test time =   0.18 sec
+----------------------------------------------------------
+Test Failed.
+"e5_avaliacao_14_1" end time: Nov 04 18:53 BRST
+"e5_avaliacao_14_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+358/407 Testing: e5_avaliacao_15_0
+358/407 Test: e5_avaliacao_15_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_15_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_15_0" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_15_0.tesh'
+[avaliacao_15_0.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e15_0.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Output of <avaliacao_15_0.tesh:3> mismatch:
+- 00000260 456
+- 00000392 123
+Test suite `avaliacao_15_0.tesh': NOK (<avaliacao_15_0.tesh:3> output mismatch)
+<end of output>
+Test time =   0.20 sec
+----------------------------------------------------------
+Test Failed.
+"e5_avaliacao_15_0" end time: Nov 04 18:53 BRST
+"e5_avaliacao_15_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+359/407 Testing: e5_avaliacao_15_1
+359/407 Test: e5_avaliacao_15_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_15_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_15_1" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_15_1.tesh'
+[avaliacao_15_1.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e15_1.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Output of <avaliacao_15_1.tesh:3> mismatch:
+- 2453276716 4569
+- 3631943232 1234
+Test suite `avaliacao_15_1.tesh': NOK (<avaliacao_15_1.tesh:3> output mismatch)
+<end of output>
+Test time =   0.20 sec
+----------------------------------------------------------
+Test Failed.
+"e5_avaliacao_15_1" end time: Nov 04 18:53 BRST
+"e5_avaliacao_15_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+360/407 Testing: e5_avaliacao_16_0
+360/407 Test: e5_avaliacao_16_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_16_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_16_0" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_16_0.tesh'
+[avaliacao_16_0.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e16_0.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Output of <avaliacao_16_0.tesh:3> mismatch:
+- 00600652 456
+- 00903544 123
+- 00959996 789
+Test suite `avaliacao_16_0.tesh': NOK (<avaliacao_16_0.tesh:3> output mismatch)
+<end of output>
+Test time =   0.18 sec
+----------------------------------------------------------
+Test Failed.
+"e5_avaliacao_16_0" end time: Nov 04 18:53 BRST
+"e5_avaliacao_16_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+361/407 Testing: e5_avaliacao_16_1
+361/407 Test: e5_avaliacao_16_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_16_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_16_1" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_16_1.tesh'
+[avaliacao_16_1.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e16_1.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Output of <avaliacao_16_1.tesh:3> mismatch:
+- 796947406780 4567
+- 1164131685052 1234
+- 1258617898096 7890
+Test suite `avaliacao_16_1.tesh': NOK (<avaliacao_16_1.tesh:3> output mismatch)
+<end of output>
+Test time =   0.20 sec
+----------------------------------------------------------
+Test Failed.
+"e5_avaliacao_16_1" end time: Nov 04 18:53 BRST
+"e5_avaliacao_16_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+362/407 Testing: e5_avaliacao_17_0
+362/407 Test: e5_avaliacao_17_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_17_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_17_0" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_17_0.tesh'
+[avaliacao_17_0.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e17_0.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Output of <avaliacao_17_0.tesh:3> mismatch:
+- 00000000 123
++ 00000000 1
+  00000004 1
+  00000008 0
+Test suite `avaliacao_17_0.tesh': NOK (<avaliacao_17_0.tesh:3> output mismatch)
+<end of output>
+Test time =   0.19 sec
+----------------------------------------------------------
+Test Failed.
+"e5_avaliacao_17_0" end time: Nov 04 18:53 BRST
+"e5_avaliacao_17_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+363/407 Testing: e5_avaliacao_17_1
+363/407 Test: e5_avaliacao_17_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_17_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_17_1" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_17_1.tesh'
+[avaliacao_17_1.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e17_1.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+Output of <avaliacao_17_1.tesh:3> mismatch:
+- 00000000 1234
++ 00000000 2
+  00000004 2
+  00000008 1
+Test suite `avaliacao_17_1.tesh': NOK (<avaliacao_17_1.tesh:3> output mismatch)
+<end of output>
+Test time =   0.19 sec
+----------------------------------------------------------
+Test Failed.
+"e5_avaliacao_17_1" end time: Nov 04 18:53 BRST
+"e5_avaliacao_17_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+364/407 Testing: e5_avaliacao_18_0
+364/407 Test: e5_avaliacao_18_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_18_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_18_0" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_18_0.tesh'
+[avaliacao_18_0.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e18_0.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+[avaliacao_18_0.tesh:6] ./tests/e5/execute.sh "./main < ./tests/e5/input/e18_0.amarela | grep loadI | cut -d'=' -f1 | sed 's/loadI//g' | tr -d '[[:blank:]]'"
+Test suite `avaliacao_18_0.tesh' OK
+<end of output>
+Test time =   0.21 sec
+----------------------------------------------------------
+Test Passed.
+"e5_avaliacao_18_0" end time: Nov 04 18:53 BRST
+"e5_avaliacao_18_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+365/407 Testing: e5_avaliacao_18_1
+365/407 Test: e5_avaliacao_18_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_18_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_avaliacao_18_1" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//avaliacao_18_1.tesh'
+[avaliacao_18_1.tesh:3] ./tests/e5/execute.sh "./main < ./tests/e5/input/e18_1.amarela | ./tests/scripts/ilocsim --bss 0 --stack 1024 -m 1"
+[avaliacao_18_1.tesh:6] ./tests/e5/execute.sh "./main < ./tests/e5/input/e18_1.amarela | grep loadI | cut -d'=' -f1 | sed 's/loadI//g' | tr -d '[[:blank:]]'"
+Test suite `avaliacao_18_1.tesh' OK
+<end of output>
+Test time =   0.21 sec
+----------------------------------------------------------
+Test Passed.
+"e5_avaliacao_18_1" end time: Nov 04 18:53 BRST
+"e5_avaliacao_18_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+366/407 Testing: e5_valgrind_00_0
+366/407 Test: e5_valgrind_00_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_00_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_00_0" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_00_0.tesh'
+[valgrind_00_0.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e00_0.amarela
+(ignoring the output of <valgrind_00_0.tesh:3> as requested)
+Test suite `valgrind_00_0.tesh' OK
+<end of output>
+Test time =   0.81 sec
+----------------------------------------------------------
+Test Passed.
+"e5_valgrind_00_0" end time: Nov 04 18:53 BRST
+"e5_valgrind_00_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+367/407 Testing: e5_valgrind_00_1
+367/407 Test: e5_valgrind_00_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_00_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_00_1" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_00_1.tesh'
+[valgrind_00_1.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e00_1.amarela
+(ignoring the output of <valgrind_00_1.tesh:3> as requested)
+Test suite `valgrind_00_1.tesh' OK
+<end of output>
+Test time =   0.77 sec
+----------------------------------------------------------
+Test Passed.
+"e5_valgrind_00_1" end time: Nov 04 18:53 BRST
+"e5_valgrind_00_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+368/407 Testing: e5_valgrind_01_0
+368/407 Test: e5_valgrind_01_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_01_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_01_0" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_01_0.tesh'
+[valgrind_01_0.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e01_0.amarela
+(ignoring the output of <valgrind_01_0.tesh:3> as requested)
+Test suite `valgrind_01_0.tesh' OK
+<end of output>
+Test time =   0.80 sec
+----------------------------------------------------------
+Test Passed.
+"e5_valgrind_01_0" end time: Nov 04 18:53 BRST
+"e5_valgrind_01_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+369/407 Testing: e5_valgrind_01_1
+369/407 Test: e5_valgrind_01_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_01_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_01_1" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_01_1.tesh'
+[valgrind_01_1.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e01_1.amarela
+(ignoring the output of <valgrind_01_1.tesh:3> as requested)
+Test suite `valgrind_01_1.tesh' OK
+<end of output>
+Test time =   0.81 sec
+----------------------------------------------------------
+Test Passed.
+"e5_valgrind_01_1" end time: Nov 04 18:53 BRST
+"e5_valgrind_01_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+370/407 Testing: e5_valgrind_02_0
+370/407 Test: e5_valgrind_02_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_02_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_02_0" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_02_0.tesh'
+[valgrind_02_0.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e02_0.amarela
+(ignoring the output of <valgrind_02_0.tesh:3> as requested)
+Test suite `valgrind_02_0.tesh' OK
+<end of output>
+Test time =   0.80 sec
+----------------------------------------------------------
+Test Passed.
+"e5_valgrind_02_0" end time: Nov 04 18:53 BRST
+"e5_valgrind_02_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+371/407 Testing: e5_valgrind_02_1
+371/407 Test: e5_valgrind_02_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_02_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_02_1" start time: Nov 04 18:53 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_02_1.tesh'
+[valgrind_02_1.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e02_1.amarela
+(ignoring the output of <valgrind_02_1.tesh:3> as requested)
+Test suite `valgrind_02_1.tesh' OK
+<end of output>
+Test time =   0.79 sec
+----------------------------------------------------------
+Test Passed.
+"e5_valgrind_02_1" end time: Nov 04 18:54 BRST
+"e5_valgrind_02_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+372/407 Testing: e5_valgrind_03_0
+372/407 Test: e5_valgrind_03_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_03_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_03_0" start time: Nov 04 18:54 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_03_0.tesh'
+[valgrind_03_0.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e03_0.amarela
+(ignoring the output of <valgrind_03_0.tesh:3> as requested)
+Test suite `valgrind_03_0.tesh' OK
+<end of output>
+Test time =   0.77 sec
+----------------------------------------------------------
+Test Passed.
+"e5_valgrind_03_0" end time: Nov 04 18:54 BRST
+"e5_valgrind_03_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+373/407 Testing: e5_valgrind_03_1
+373/407 Test: e5_valgrind_03_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_03_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_03_1" start time: Nov 04 18:54 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_03_1.tesh'
+[valgrind_03_1.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e03_1.amarela
+(ignoring the output of <valgrind_03_1.tesh:3> as requested)
+Test suite `valgrind_03_1.tesh' OK
+<end of output>
+Test time =   0.76 sec
+----------------------------------------------------------
+Test Passed.
+"e5_valgrind_03_1" end time: Nov 04 18:54 BRST
+"e5_valgrind_03_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+374/407 Testing: e5_valgrind_04_0
+374/407 Test: e5_valgrind_04_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_04_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_04_0" start time: Nov 04 18:54 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_04_0.tesh'
+[valgrind_04_0.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e04_0.amarela
+(ignoring the output of <valgrind_04_0.tesh:3> as requested)
+Test suite `valgrind_04_0.tesh' OK
+<end of output>
+Test time =   0.74 sec
+----------------------------------------------------------
+Test Passed.
+"e5_valgrind_04_0" end time: Nov 04 18:54 BRST
+"e5_valgrind_04_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+375/407 Testing: e5_valgrind_04_1
+375/407 Test: e5_valgrind_04_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_04_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_04_1" start time: Nov 04 18:54 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_04_1.tesh'
+[valgrind_04_1.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e04_1.amarela
+(ignoring the output of <valgrind_04_1.tesh:3> as requested)
+Test suite `valgrind_04_1.tesh' OK
+<end of output>
+Test time =   0.71 sec
+----------------------------------------------------------
+Test Passed.
+"e5_valgrind_04_1" end time: Nov 04 18:54 BRST
+"e5_valgrind_04_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+376/407 Testing: e5_valgrind_05_0
+376/407 Test: e5_valgrind_05_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_05_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_05_0" start time: Nov 04 18:54 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_05_0.tesh'
+[valgrind_05_0.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e05_0.amarela
+Test suite `valgrind_05_0.tesh': NOK (<valgrind_05_0.tesh:3> returned code 1)
+Output of <valgrind_05_0.tesh:3> so far:
+|| invalid writes:
+|| 0
+|| invalid read:
+|| 0
+|| jumps/moves depending on uninitialized values:
+|| 1
+|| lost bytes:
+|| 0
+(ignoring the output of <valgrind_05_0.tesh:3> as requested)
+<end of output>
+Test time =   0.84 sec
+----------------------------------------------------------
+Test Failed.
+"e5_valgrind_05_0" end time: Nov 04 18:54 BRST
+"e5_valgrind_05_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+377/407 Testing: e5_valgrind_05_1
+377/407 Test: e5_valgrind_05_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_05_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_05_1" start time: Nov 04 18:54 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_05_1.tesh'
+[valgrind_05_1.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e05_1.amarela
+Test suite `valgrind_05_1.tesh': NOK (<valgrind_05_1.tesh:3> returned code 1)
+Output of <valgrind_05_1.tesh:3> so far:
+|| invalid writes:
+|| 0
+|| invalid read:
+|| 0
+|| jumps/moves depending on uninitialized values:
+|| 1
+|| lost bytes:
+|| 0
+(ignoring the output of <valgrind_05_1.tesh:3> as requested)
+<end of output>
+Test time =   0.80 sec
+----------------------------------------------------------
+Test Failed.
+"e5_valgrind_05_1" end time: Nov 04 18:54 BRST
+"e5_valgrind_05_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+378/407 Testing: e5_valgrind_06_0
+378/407 Test: e5_valgrind_06_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_06_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_06_0" start time: Nov 04 18:54 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_06_0.tesh'
+[valgrind_06_0.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e06_0.amarela
+Test suite `valgrind_06_0.tesh': NOK (<valgrind_06_0.tesh:3> returned code 1)
+Output of <valgrind_06_0.tesh:3> so far:
+|| invalid writes:
+|| 0
+|| invalid read:
+|| 0
+|| jumps/moves depending on uninitialized values:
+|| 1
+|| lost bytes:
+|| 0
+(ignoring the output of <valgrind_06_0.tesh:3> as requested)
+<end of output>
+Test time =   0.75 sec
+----------------------------------------------------------
+Test Failed.
+"e5_valgrind_06_0" end time: Nov 04 18:54 BRST
+"e5_valgrind_06_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+379/407 Testing: e5_valgrind_06_1
+379/407 Test: e5_valgrind_06_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_06_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_06_1" start time: Nov 04 18:54 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_06_1.tesh'
+[valgrind_06_1.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e06_1.amarela
+Test suite `valgrind_06_1.tesh': NOK (<valgrind_06_1.tesh:3> returned code 1)
+Output of <valgrind_06_1.tesh:3> so far:
+|| invalid writes:
+|| 0
+|| invalid read:
+|| 0
+|| jumps/moves depending on uninitialized values:
+|| 1
+|| lost bytes:
+|| 0
+(ignoring the output of <valgrind_06_1.tesh:3> as requested)
+<end of output>
+Test time =   0.73 sec
+----------------------------------------------------------
+Test Failed.
+"e5_valgrind_06_1" end time: Nov 04 18:54 BRST
+"e5_valgrind_06_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+380/407 Testing: e5_valgrind_07_0
+380/407 Test: e5_valgrind_07_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_07_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_07_0" start time: Nov 04 18:54 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_07_0.tesh'
+[valgrind_07_0.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e07_0.amarela
+Test suite `valgrind_07_0.tesh': NOK (<valgrind_07_0.tesh:3> returned code 1)
+Output of <valgrind_07_0.tesh:3> so far:
+|| invalid writes:
+|| 0
+|| invalid read:
+|| 0
+|| jumps/moves depending on uninitialized values:
+|| 1
+|| lost bytes:
+|| 0
+(ignoring the output of <valgrind_07_0.tesh:3> as requested)
+<end of output>
+Test time =   0.82 sec
+----------------------------------------------------------
+Test Failed.
+"e5_valgrind_07_0" end time: Nov 04 18:54 BRST
+"e5_valgrind_07_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+381/407 Testing: e5_valgrind_07_1
+381/407 Test: e5_valgrind_07_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_07_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_07_1" start time: Nov 04 18:54 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_07_1.tesh'
+[valgrind_07_1.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e07_1.amarela
+Test suite `valgrind_07_1.tesh': NOK (<valgrind_07_1.tesh:3> returned code 1)
+Output of <valgrind_07_1.tesh:3> so far:
+|| invalid writes:
+|| 0
+|| invalid read:
+|| 0
+|| jumps/moves depending on uninitialized values:
+|| 1
+|| lost bytes:
+|| 0
+(ignoring the output of <valgrind_07_1.tesh:3> as requested)
+<end of output>
+Test time =   0.76 sec
+----------------------------------------------------------
+Test Failed.
+"e5_valgrind_07_1" end time: Nov 04 18:54 BRST
+"e5_valgrind_07_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+382/407 Testing: e5_valgrind_08_0
+382/407 Test: e5_valgrind_08_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_08_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_08_0" start time: Nov 04 18:54 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_08_0.tesh'
+[valgrind_08_0.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e08_0.amarela
+Test suite `valgrind_08_0.tesh': NOK (<valgrind_08_0.tesh:3> returned code 1)
+Output of <valgrind_08_0.tesh:3> so far:
+|| invalid writes:
+|| 0
+|| invalid read:
+|| 0
+|| jumps/moves depending on uninitialized values:
+|| 1
+|| lost bytes:
+|| 0
+(ignoring the output of <valgrind_08_0.tesh:3> as requested)
+<end of output>
+Test time =   0.76 sec
+----------------------------------------------------------
+Test Failed.
+"e5_valgrind_08_0" end time: Nov 04 18:54 BRST
+"e5_valgrind_08_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+383/407 Testing: e5_valgrind_08_1
+383/407 Test: e5_valgrind_08_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_08_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_08_1" start time: Nov 04 18:54 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_08_1.tesh'
+[valgrind_08_1.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e08_1.amarela
+Test suite `valgrind_08_1.tesh': NOK (<valgrind_08_1.tesh:3> returned code 1)
+Output of <valgrind_08_1.tesh:3> so far:
+|| invalid writes:
+|| 0
+|| invalid read:
+|| 0
+|| jumps/moves depending on uninitialized values:
+|| 1
+|| lost bytes:
+|| 0
+(ignoring the output of <valgrind_08_1.tesh:3> as requested)
+<end of output>
+Test time =   0.75 sec
+----------------------------------------------------------
+Test Failed.
+"e5_valgrind_08_1" end time: Nov 04 18:54 BRST
+"e5_valgrind_08_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+384/407 Testing: e5_valgrind_09_0
+384/407 Test: e5_valgrind_09_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_09_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_09_0" start time: Nov 04 18:54 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_09_0.tesh'
+[valgrind_09_0.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e09_0.amarela
+Test suite `valgrind_09_0.tesh': NOK (<valgrind_09_0.tesh:3> returned code 1)
+Output of <valgrind_09_0.tesh:3> so far:
+|| invalid writes:
+|| 0
+|| invalid read:
+|| 0
+|| jumps/moves depending on uninitialized values:
+|| 1
+|| lost bytes:
+|| 0
+(ignoring the output of <valgrind_09_0.tesh:3> as requested)
+<end of output>
+Test time =   0.78 sec
+----------------------------------------------------------
+Test Failed.
+"e5_valgrind_09_0" end time: Nov 04 18:54 BRST
+"e5_valgrind_09_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+385/407 Testing: e5_valgrind_09_1
+385/407 Test: e5_valgrind_09_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_09_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_09_1" start time: Nov 04 18:54 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_09_1.tesh'
+[valgrind_09_1.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e09_1.amarela
+Test suite `valgrind_09_1.tesh': NOK (<valgrind_09_1.tesh:3> returned code 1)
+Output of <valgrind_09_1.tesh:3> so far:
+|| invalid writes:
+|| 0
+|| invalid read:
+|| 0
+|| jumps/moves depending on uninitialized values:
+|| 1
+|| lost bytes:
+|| 0
+(ignoring the output of <valgrind_09_1.tesh:3> as requested)
+<end of output>
+Test time =   0.79 sec
+----------------------------------------------------------
+Test Failed.
+"e5_valgrind_09_1" end time: Nov 04 18:54 BRST
+"e5_valgrind_09_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+386/407 Testing: e5_valgrind_10_0
+386/407 Test: e5_valgrind_10_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_10_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_10_0" start time: Nov 04 18:54 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_10_0.tesh'
+[valgrind_10_0.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e10_0.amarela
+Test suite `valgrind_10_0.tesh': NOK (<valgrind_10_0.tesh:3> returned code 1)
+Output of <valgrind_10_0.tesh:3> so far:
+|| invalid writes:
+|| 0
+|| invalid read:
+|| 0
+|| jumps/moves depending on uninitialized values:
+|| 1
+|| lost bytes:
+|| 0
+(ignoring the output of <valgrind_10_0.tesh:3> as requested)
+<end of output>
+Test time =   0.81 sec
+----------------------------------------------------------
+Test Failed.
+"e5_valgrind_10_0" end time: Nov 04 18:54 BRST
+"e5_valgrind_10_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+387/407 Testing: e5_valgrind_10_1
+387/407 Test: e5_valgrind_10_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_10_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_10_1" start time: Nov 04 18:54 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_10_1.tesh'
+[valgrind_10_1.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e10_1.amarela
+Test suite `valgrind_10_1.tesh': NOK (<valgrind_10_1.tesh:3> returned code 1)
+Output of <valgrind_10_1.tesh:3> so far:
+|| invalid writes:
+|| 0
+|| invalid read:
+|| 0
+|| jumps/moves depending on uninitialized values:
+|| 1
+|| lost bytes:
+|| 0
+(ignoring the output of <valgrind_10_1.tesh:3> as requested)
+<end of output>
+Test time =   0.80 sec
+----------------------------------------------------------
+Test Failed.
+"e5_valgrind_10_1" end time: Nov 04 18:54 BRST
+"e5_valgrind_10_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+388/407 Testing: e5_valgrind_11_0
+388/407 Test: e5_valgrind_11_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_11_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_11_0" start time: Nov 04 18:54 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_11_0.tesh'
+[valgrind_11_0.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e11_0.amarela
+Test suite `valgrind_11_0.tesh': NOK (<valgrind_11_0.tesh:3> returned code 1)
+Output of <valgrind_11_0.tesh:3> so far:
+|| invalid writes:
+|| 0
+|| invalid read:
+|| 0
+|| jumps/moves depending on uninitialized values:
+|| 1
+|| lost bytes:
+|| 0
+(ignoring the output of <valgrind_11_0.tesh:3> as requested)
+<end of output>
+Test time =   0.74 sec
+----------------------------------------------------------
+Test Failed.
+"e5_valgrind_11_0" end time: Nov 04 18:54 BRST
+"e5_valgrind_11_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+389/407 Testing: e5_valgrind_11_1
+389/407 Test: e5_valgrind_11_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_11_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_11_1" start time: Nov 04 18:54 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_11_1.tesh'
+[valgrind_11_1.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e11_1.amarela
+Test suite `valgrind_11_1.tesh': NOK (<valgrind_11_1.tesh:3> returned code 1)
+Output of <valgrind_11_1.tesh:3> so far:
+|| invalid writes:
+|| 0
+|| invalid read:
+|| 0
+|| jumps/moves depending on uninitialized values:
+|| 1
+|| lost bytes:
+|| 0
+(ignoring the output of <valgrind_11_1.tesh:3> as requested)
+<end of output>
+Test time =   0.78 sec
+----------------------------------------------------------
+Test Failed.
+"e5_valgrind_11_1" end time: Nov 04 18:54 BRST
+"e5_valgrind_11_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+390/407 Testing: e5_valgrind_12_0
+390/407 Test: e5_valgrind_12_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_12_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_12_0" start time: Nov 04 18:54 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_12_0.tesh'
+[valgrind_12_0.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e12_0.amarela
+(ignoring the output of <valgrind_12_0.tesh:3> as requested)
+Test suite `valgrind_12_0.tesh': NOK (<valgrind_12_0.tesh:3> returned code 1)
+Output of <valgrind_12_0.tesh:3> so far:
+|| invalid writes:
+|| 0
+|| invalid read:
+|| 0
+|| jumps/moves depending on uninitialized values:
+|| 2
+|| lost bytes:
+|| 0
+<end of output>
+Test time =   0.85 sec
+----------------------------------------------------------
+Test Failed.
+"e5_valgrind_12_0" end time: Nov 04 18:54 BRST
+"e5_valgrind_12_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+391/407 Testing: e5_valgrind_12_1
+391/407 Test: e5_valgrind_12_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_12_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_12_1" start time: Nov 04 18:54 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_12_1.tesh'
+[valgrind_12_1.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e12_1.amarela
+Test suite `valgrind_12_1.tesh': NOK (<valgrind_12_1.tesh:3> returned code 1)
+Output of <valgrind_12_1.tesh:3> so far:
+|| invalid writes:
+|| 0
+|| invalid read:
+|| 0
+|| jumps/moves depending on uninitialized values:
+|| 2
+|| lost bytes:
+|| 0
+(ignoring the output of <valgrind_12_1.tesh:3> as requested)
+<end of output>
+Test time =   0.81 sec
+----------------------------------------------------------
+Test Failed.
+"e5_valgrind_12_1" end time: Nov 04 18:54 BRST
+"e5_valgrind_12_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+392/407 Testing: e5_valgrind_13_0
+392/407 Test: e5_valgrind_13_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_13_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_13_0" start time: Nov 04 18:54 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_13_0.tesh'
+[valgrind_13_0.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e13_0.amarela
+Test suite `valgrind_13_0.tesh': NOK (<valgrind_13_0.tesh:3> returned code 1)
+Output of <valgrind_13_0.tesh:3> so far:
+|| invalid writes:
+|| 0
+|| invalid read:
+|| 0
+|| jumps/moves depending on uninitialized values:
+|| 1
+|| lost bytes:
+|| 0
+(ignoring the output of <valgrind_13_0.tesh:3> as requested)
+<end of output>
+Test time =   0.81 sec
+----------------------------------------------------------
+Test Failed.
+"e5_valgrind_13_0" end time: Nov 04 18:54 BRST
+"e5_valgrind_13_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+393/407 Testing: e5_valgrind_13_1
+393/407 Test: e5_valgrind_13_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_13_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_13_1" start time: Nov 04 18:54 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_13_1.tesh'
+[valgrind_13_1.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e13_1.amarela
+Test suite `valgrind_13_1.tesh': NOK (<valgrind_13_1.tesh:3> returned code 1)
+Output of <valgrind_13_1.tesh:3> so far:
+|| invalid writes:
+|| 0
+|| invalid read:
+|| 0
+|| jumps/moves depending on uninitialized values:
+|| 1
+|| lost bytes:
+|| 0
+(ignoring the output of <valgrind_13_1.tesh:3> as requested)
+<end of output>
+Test time =   0.79 sec
+----------------------------------------------------------
+Test Failed.
+"e5_valgrind_13_1" end time: Nov 04 18:54 BRST
+"e5_valgrind_13_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+394/407 Testing: e5_valgrind_14_0
+394/407 Test: e5_valgrind_14_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_14_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_14_0" start time: Nov 04 18:54 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_14_0.tesh'
+[valgrind_14_0.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e14_0.amarela
+(ignoring the output of <valgrind_14_0.tesh:3> as requested)
+Test suite `valgrind_14_0.tesh' OK
+<end of output>
+Test time =   0.78 sec
+----------------------------------------------------------
+Test Passed.
+"e5_valgrind_14_0" end time: Nov 04 18:54 BRST
+"e5_valgrind_14_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+395/407 Testing: e5_valgrind_14_1
+395/407 Test: e5_valgrind_14_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_14_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_14_1" start time: Nov 04 18:54 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_14_1.tesh'
+[valgrind_14_1.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e14_1.amarela
+(ignoring the output of <valgrind_14_1.tesh:3> as requested)
+Test suite `valgrind_14_1.tesh' OK
+<end of output>
+Test time =   0.76 sec
+----------------------------------------------------------
+Test Passed.
+"e5_valgrind_14_1" end time: Nov 04 18:54 BRST
+"e5_valgrind_14_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+396/407 Testing: e5_valgrind_15_0
+396/407 Test: e5_valgrind_15_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_15_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_15_0" start time: Nov 04 18:54 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_15_0.tesh'
+[valgrind_15_0.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e15_0.amarela
+(ignoring the output of <valgrind_15_0.tesh:3> as requested)
+Test suite `valgrind_15_0.tesh' OK
+<end of output>
+Test time =   0.81 sec
+----------------------------------------------------------
+Test Passed.
+"e5_valgrind_15_0" end time: Nov 04 18:54 BRST
+"e5_valgrind_15_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+397/407 Testing: e5_valgrind_15_1
+397/407 Test: e5_valgrind_15_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_15_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_15_1" start time: Nov 04 18:54 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_15_1.tesh'
+[valgrind_15_1.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e15_1.amarela
+(ignoring the output of <valgrind_15_1.tesh:3> as requested)
+Test suite `valgrind_15_1.tesh' OK
+<end of output>
+Test time =   0.78 sec
+----------------------------------------------------------
+Test Passed.
+"e5_valgrind_15_1" end time: Nov 04 18:54 BRST
+"e5_valgrind_15_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+398/407 Testing: e5_valgrind_16_0
+398/407 Test: e5_valgrind_16_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_16_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_16_0" start time: Nov 04 18:54 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_16_0.tesh'
+[valgrind_16_0.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e16_0.amarela
+(ignoring the output of <valgrind_16_0.tesh:3> as requested)
+Test suite `valgrind_16_0.tesh' OK
+<end of output>
+Test time =   0.80 sec
+----------------------------------------------------------
+Test Passed.
+"e5_valgrind_16_0" end time: Nov 04 18:54 BRST
+"e5_valgrind_16_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+399/407 Testing: e5_valgrind_16_1
+399/407 Test: e5_valgrind_16_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_16_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_16_1" start time: Nov 04 18:54 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_16_1.tesh'
+[valgrind_16_1.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e16_1.amarela
+(ignoring the output of <valgrind_16_1.tesh:3> as requested)
+Test suite `valgrind_16_1.tesh' OK
+<end of output>
+Test time =   0.89 sec
+----------------------------------------------------------
+Test Passed.
+"e5_valgrind_16_1" end time: Nov 04 18:54 BRST
+"e5_valgrind_16_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+400/407 Testing: e5_valgrind_17_0
+400/407 Test: e5_valgrind_17_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_17_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_17_0" start time: Nov 04 18:54 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_17_0.tesh'
+[valgrind_17_0.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e17_0.amarela
+Test suite `valgrind_17_0.tesh': NOK (<valgrind_17_0.tesh:3> returned code 1)
+Output of <valgrind_17_0.tesh:3> so far:
+|| invalid writes:
+|| 0
+|| invalid read:
+|| 0
+|| jumps/moves depending on uninitialized values:
+|| 1
+|| lost bytes:
+|| 0
+(ignoring the output of <valgrind_17_0.tesh:3> as requested)
+<end of output>
+Test time =   0.87 sec
+----------------------------------------------------------
+Test Failed.
+"e5_valgrind_17_0" end time: Nov 04 18:54 BRST
+"e5_valgrind_17_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+401/407 Testing: e5_valgrind_17_1
+401/407 Test: e5_valgrind_17_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_17_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_17_1" start time: Nov 04 18:54 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_17_1.tesh'
+[valgrind_17_1.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e17_1.amarela
+Test suite `valgrind_17_1.tesh': NOK (<valgrind_17_1.tesh:3> returned code 1)
+Output of <valgrind_17_1.tesh:3> so far:
+|| invalid writes:
+|| 0
+|| invalid read:
+|| 0
+|| jumps/moves depending on uninitialized values:
+|| 1
+|| lost bytes:
+|| 0
+(ignoring the output of <valgrind_17_1.tesh:3> as requested)
+<end of output>
+Test time =   0.80 sec
+----------------------------------------------------------
+Test Failed.
+"e5_valgrind_17_1" end time: Nov 04 18:54 BRST
+"e5_valgrind_17_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+402/407 Testing: e5_valgrind_18_0
+402/407 Test: e5_valgrind_18_0
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_18_0.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_18_0" start time: Nov 04 18:54 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_18_0.tesh'
+[valgrind_18_0.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e18_0.amarela
+(ignoring the output of <valgrind_18_0.tesh:3> as requested)
+Test suite `valgrind_18_0.tesh' OK
+<end of output>
+Test time =   0.78 sec
+----------------------------------------------------------
+Test Passed.
+"e5_valgrind_18_0" end time: Nov 04 18:54 BRST
+"e5_valgrind_18_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+403/407 Testing: e5_valgrind_18_1
+403/407 Test: e5_valgrind_18_1
+Command: "/usr/bin/perl" "-I" "./tests/scripts" "./tests/scripts/tesh" "/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_18_1.tesh"
+Directory: /media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/build
+"e5_valgrind_18_1" start time: Nov 04 18:54 BRST
+Output:
+----------------------------------------------------------
+Test suite `/media/psf/Dropbox/documents/ufrgs/materias/62/compiladores/trabalho/tests/e5//valgrind_18_1.tesh'
+[valgrind_18_1.tesh:3] ./tests/scripts/valgrindtest ./main ./tests/e5/input/e18_1.amarela
+(ignoring the output of <valgrind_18_1.tesh:3> as requested)
+Test suite `valgrind_18_1.tesh' OK
+<end of output>
+Test time =   0.77 sec
+----------------------------------------------------------
+Test Passed.
+"e5_valgrind_18_1" end time: Nov 04 18:54 BRST
+"e5_valgrind_18_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 04 18:54 BRST

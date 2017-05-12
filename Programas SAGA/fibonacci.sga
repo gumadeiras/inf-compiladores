@@ -1,0 +1,57 @@
+///////////////////////////////////////////////////////////////
+//
+//        Nome: Fibonacci
+//   Descriçao: Funçao que calcula o valor de um tremo na sequencia
+//              de Fibonacci.
+//
+//     Criaçao: 04/09/2016  Arthur Ribeiro
+//  Modificada: 
+//
+/////////////////////////////////////////////////////////////// 
+int fibonacci(int n)
+{
+    int cont;
+    int x <= 0;
+    int z <= 1;
+    
+    if (n % 2 == 0) then{   
+	cont = 2;
+        while(cont != n) do
+        {
+            x = x + z;
+            z = x + z;
+	    cont = cont + 2;
+        };;
+        return z;
+    };
+    else
+    {	cont = 1;
+        while(cont != n)do
+	{
+            x = x + z;
+            z = x + z;
+	    cont = cont + 2
+        };;
+        return x;
+    };;
+}
+
+///////////////////////////////////////////////////////////////
+//
+//        Nome: Main
+//   Descriçao: Funçao principal.
+//
+//     Criaçao: 04/09/2016  Arthur Ribeiro
+//  Modificada: 
+//
+/////////////////////////////////////////////////////////////// 
+int main()
+{   int n;
+    
+    output "Escolha a posicao: ";
+    input n;
+    output "Posicao" ,n, "da sequencia de fibonnaci:" ,fibonacci(n);
+}
+ 
+
+
